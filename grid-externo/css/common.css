@@ -1,0 +1,70 @@
+header{
+	background-color: white;
+	width: 100%;
+}
+.nav{
+	color: #0B2161;
+	text-decoration: none;
+	padding: 30px; 
+}
+h2{
+	color: #0B2161;
+	font-size: 22px;
+	padding-left: 20px;
+}
+.name{
+	border: 2px solid #D7D7DA;
+	width: 300px;
+	font-size: 14px;
+	color: #D7D7DA;
+	padding: 5px 30px 5px;
+	margin-top: 10px;
+	opacity: 0.6;
+}
+.a{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg); 
+	background-size: 7%;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.b{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg); 
+	background-size: 7%;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.c{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg); 
+	background-size: 7%;
+	background-repeat: no-repeat;
+	background-position: top left;
+	height: 100px;
+
+}
+button{
+	border: none;
+	border-radius: 2px;
+	margin-top: 10px;
+	
+}
+.bot{
+	padding: 15px 160px 15px;
+	text-decoration: none;
+	color: #D5D5D5;
+	background-color: #151F5B;
+
+}
+.cont{
+	background-image: url(../img/shoes_1.jpg);
+	height: 420px;	
+	background-repeat: no-repeat;
+	background-position-x: 250px; 
+	margin-left: 0px;
+	padding-top: 50px;
+}
+.copy{
+	background-color: #151F5B;
+	color: white;
+	font-size: 11px;
+	padding: 20px 15px 10px;
+}
